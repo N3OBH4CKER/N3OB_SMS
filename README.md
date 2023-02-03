@@ -9,4 +9,4 @@ git clone https://github.com/N3OBH4CKER/N3OB_SMS
 
 cd N3OB_SMS
 
-python 
+python N3OB_SMS.py
