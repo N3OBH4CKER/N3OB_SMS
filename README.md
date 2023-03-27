@@ -11,7 +11,7 @@ python N3OB_SMS.py
 
 For pic-
 <p align="center">
-<img src='png_20230327_110240_0000.png' style="height:300px;width:500px;" >
+<img src='png_20230327_110240_0000.png' style="height:300px;width:600px;" >
 </p>
 
 ### Contact With Developer
